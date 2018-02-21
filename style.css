@@ -1,0 +1,50 @@
+.ui.fluid.banner.image {
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.slidingtext.center.aligned.segment {
+  padding: 25px;
+  color: yellow;
+  font-size: 26px;
+  background-color: black;
+}
+
+
+
+.options.item {
+  font-size: 20px;
+  margin: auto;
+}
+.ui.options.menu {
+  background-color: #ffd700;
+
+}
+
+.ui.mid.grid {
+  margin-top: 20px;
+}
+
+.ui.ekm.header {
+  color: yellow;
+  margin-left: 350px;
+}
+
+.ekm.text {
+  color: yellow;
+}
+
+.teamphoto {
+  margin-top: 50px;
+}
+
+.ui.borderless.midmenu.menu {
+  background-color: #ffd700;
+}
+
+body {
+  background-color: black;
+}
